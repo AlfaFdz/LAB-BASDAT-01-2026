@@ -111,7 +111,7 @@ git commit -m "<type>(<scope>): <deskripsi singkat>"
 git push origin main
 ```
 
-#### 📝 Format Commit Message (Conventional Commits)
+#### Format Commit Message (Conventional Commits)
 
 Gunakan format **Conventional Commits** agar riwayat commit lebih rapi dan profesional.
 
@@ -161,11 +161,3 @@ TP1-H071221001
 5. Pastikan semua informasi sudah benar, kemudian klik **Create Pull Request**.
 
 ---
-
-## ⚠️ Catatan Pengumpulan
-
-* Pastikan tugas telah mendapatkan **ACC dari asisten** sebelum dikumpulkan.
-* Pastikan file tugas berada pada folder NIM dan folder TP yang sesuai.
-* Pastikan nama folder dan format Pull Request mengikuti ketentuan yang telah ditentukan.
-* Jangan mengubah atau menghapus file milik mahasiswa lain.
-* Pastikan proses **add → commit → push → pull request** dilakukan dengan benar.
